@@ -1,0 +1,5 @@
+# rewritten to use streamlit and replace usage of the degenerated 'google-generativeai'
+streamlit>=1.37
+google-genai>=1.0
+openai>=1.40
+python-dotenv>=1.0
